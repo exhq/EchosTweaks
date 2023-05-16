@@ -1,0 +1,44 @@
+{
+  "variants": {
+    "candles=1,lit=false": [
+	{ "model": "minecraft:block/brown_candle_one_candle", "weight": 1 },
+	{ "model": "minecraft:block/brown1_candle_one_candle", "weight": 1 },
+	{ "model": "minecraft:block/brown2_candle_one_candle", "weight": 1 }
+	],
+    "candles=1,lit=true": [
+	{ "model": "minecraft:block/brown_candle_one_candle_lit", "weight": 1 },
+	{ "model": "minecraft:block/brown1_candle_one_candle_lit", "weight": 1 },
+	{ "model": "minecraft:block/brown2_candle_one_candle_lit", "weight": 1 }
+	],
+    "candles=2,lit=false": [
+	{ "model": "minecraft:block/brown_candle_two_candles", "weight": 1 },
+	{ "model": "minecraft:block/brown1_candle_two_candles", "weight": 1 },
+	{ "model": "minecraft:block/brown2_candle_two_candles", "weight": 1 }
+	],
+    "candles=2,lit=true": [
+	{ "model": "minecraft:block/brown_candle_two_candles_lit", "weight": 1 },
+	{ "model": "minecraft:block/brown1_candle_two_candles_lit", "weight": 1 },
+	{ "model": "minecraft:block/brown2_candle_two_candles_lit", "weight": 1 }
+	],
+    "candles=3,lit=false": [
+	{ "model": "minecraft:block/brown_candle_three_candles", "weight": 1 },
+	{ "model": "minecraft:block/brown1_candle_three_candles", "weight": 1 },
+	{ "model": "minecraft:block/brown2_candle_three_candles", "weight": 1 }
+	],
+    "candles=3,lit=true": [
+	{ "model": "minecraft:block/brown_candle_three_candles_lit", "weight": 1 },
+	{ "model": "minecraft:block/brown1_candle_three_candles_lit", "weight": 1 },
+	{ "model": "minecraft:block/brown2_candle_three_candles_lit", "weight": 1 }
+	],
+    "candles=4,lit=false": [
+	{ "model": "minecraft:block/brown_candle_four_candles", "weight": 1 },
+	{ "model": "minecraft:block/brown1_candle_four_candles", "weight": 1 },
+	{ "model": "minecraft:block/brown2_candle_four_candles", "weight": 1 }
+	],
+    "candles=4,lit=true": [
+	{ "model": "minecraft:block/brown_candle_four_candles_lit", "weight": 1 },
+	{ "model": "minecraft:block/brown1_candle_four_candles_lit", "weight": 1 },
+	{ "model": "minecraft:block/brown2_candle_four_candles_lit", "weight": 1 }
+	]
+  }
+}

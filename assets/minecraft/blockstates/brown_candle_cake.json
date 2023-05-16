@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "lit=false": [
+	{ "model": "minecraft:block/brown_candle_cake", "weight": 1 },
+	{ "model": "minecraft:block/brown1_candle_cake", "weight": 1 },
+	{ "model": "minecraft:block/brown2_candle_cake", "weight": 1 }
+	],
+    "lit=true": [
+	{ "model": "minecraft:block/brown_candle_cake_lit", "weight": 1 },
+	{ "model": "minecraft:block/brown1_candle_cake_lit", "weight": 1 },
+	{ "model": "minecraft:block/brown2_candle_cake_lit", "weight": 1 }
+	]
+  }
+}
